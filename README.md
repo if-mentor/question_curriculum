@@ -1,0 +1,2 @@
+# question_curriculum
+教材を進めていてうまくいかない時の質問やTIpsなどをまとめていくリポジトリ
