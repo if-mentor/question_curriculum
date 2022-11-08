@@ -74,7 +74,7 @@ body:
     attributes:
       label: 想定している処理の流れ
       description: 想定している処理の流れを箇条書きで記述してください
-      value: 
+      value: |-
         1.
         2.
         3.
