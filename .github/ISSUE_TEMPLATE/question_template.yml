@@ -2,9 +2,7 @@ name: 質問フォーム
 description: 教材やオリジナルアプリの作成で質問したいことがある際に使用してください
 title: "[質問]: "
 labels: ["question"]
-assignees:
-  - Junkchi89
-  - nakajima432
+assignees:　["Junkchi89", "nakajima432"]
 body:
   - type: markdown
     attributes:
