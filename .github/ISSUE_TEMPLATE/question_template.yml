@@ -89,7 +89,7 @@ body:
     validations:
       required: false
   - type: textarea
-    id: assuming_process
+    id: what_you_search
     attributes:
       label: 試したことや調べたこと
       description: 自分で調べたことや試したことを記述してください（1サイト以上確認、推奨）
